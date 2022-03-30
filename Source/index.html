@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+ 	<title>Codependal Editor</title>
+ 	<link rel="shortcut icon" href="/img/favicon.png" />
+ 	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+ 	<script defer type="text/javascript" src="/js/app.js"></script>
+ 	<script src="https://cdnjs.cloudflare.com/ajax/libs/split.js/1.0.0/split.min.js" integrity="sha512-tTsZnBXEzNdEaqUO9Ok8fUofS73xieiBa54pD/sxOSvayIgItM9MmEM0CnUjA13LDnJT22sfwmjf20+Bo2174g==" crossorigin="anonymous"></script>
+ </head>
+ <body>
+ 	<div class="container split">
+ 		<textarea id="htmlCode"  placeholder="Type HTML code here" oninput="update()"></textarea>
+ 		<textarea id="cssCode"  placeholder="Type CSS code here" oninput="update()"></textarea>
+ 		<textarea id="javascriptCode"  placeholder="Type JavaScript code here" oninput="update()"></textarea>
+ 	</div>
+ 	<div class="iframe-container split">
+ 		<iframe id="viewer"></iframe>
+ 	</div>
+ </body>
+ </html>
+<!--Made By Abhay Mourya-->
