@@ -1,6 +1,23 @@
 # Codependal
-This Editor Lets You Code And View The Changes In Your HTML(CSS & JS Also) At The Same Time.
+<p align="center">
+  <a href="https://autocode.com/app/abhay557/codependal/">
+    <img src="/readme/thumbnail.png" alt="Logo" width="86" height="86"/>
+  </a>
+</p>
+  <h3 align="center">Codependal</h3>
+
+
+  <p align="center">
+   This Editor Lets You Code And View The Changes In Your HTML(CSS & JS Also) At The Same Time.
 It's perfect for anybody who just wants to quickly write and run some code without opening a Applicaton, Its Web Based Editor.
+    <br />
+    <br />
+    <a href="https://autocode.com/app/abhay557/codependal/">View Demo</a>
+    ·
+    <a href="https://github.com/Abhay557/Codependal/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Abhay557/Codependal/issues">Request Feature</a>
+  </p>
 
 ## Preview
 ![1](/readme/gallery/1.jpg)
