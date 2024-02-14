@@ -32,13 +32,11 @@ Its Web Based Editor is ideal for anyone who simply wants to quickly write and e
 2. The features of this code editor are identical to the Codepen editor.
 3. An editor available online.
 
-
 ## Community
 Do you have a question, feature request or something else on your mind?
 Or you just want to follow  news?
 Check out these links:
 
-* [Support](https://autocode.com)
 * [Join a discord server](https://discord.gg/CUgHj4X7uB)
 * [Report an issue](https://github.com/Abhay557/Codependal/issues/new)
 * [Github repo](https://github.com/Abhay557/Codependal)
