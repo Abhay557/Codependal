@@ -8,40 +8,38 @@
 
 
   <p align="center">
-   This Editor Lets You Code And View The Changes In Your HTML(CSS & JS Also) At The Same Time.
-It's perfect for anybody who just wants to quickly write and run some code without opening a Applicaton, Its Web Based Editor.
+   With this editor, you can simultaneously code and view the changes made to your HTML (including CSS and JS).
+Its Web Based Editor is ideal for anyone who simply wants to quickly write and execute some code without having to open an application.
     <br />
     <br />
-    <a href="https://autocode.com/app/abhay557/codependal/">View Demo</a>
+    <a href="https://autocode.com/app/abhay557/codependal/">View demo</a>
     ·
-    <a href="https://github.com/Abhay557/Codependal/issues">Report Bug</a>
+    <a href="https://github.com/Abhay557/Codependal/issues">Report bug</a>
     ·
-    <a href="https://github.com/Abhay557/Codependal/issues">Request Feature</a>
+    <a href="https://github.com/Abhay557/Codependal/issues">Request feature</a>
   </p>
 
 ## Preview
 ![1](/readme/gallery/1.jpg)
 
-## Basic Info
-1. **Code Editor Version - 1.0.1**
-2. **No Need To Use Html Tag In Editor**
-3. **Supportable In Any Internet-Brower**
+## General Information 
+1. **Code editor version - 1.0.2** 
+2. **No Html tag required in editor** 
+3. **Works with any internet browser**
 
 ## Features
-1. Easy To Use!
-2. This Code Editor Have Feature That Just Like CodePen Editor.
-3. Web Based Editor.
-4. Better Than [Code557](https://autocode.com/app/abhay557/code557)
+1. Simple to operate!
+2. The features of this code editor are identical to the Codepen editor.
+3. An editor available online.
+
 
 ## Community
 Do you have a question, feature request or something else on your mind?
 Or you just want to follow  news?
 Check out these links:
 
-* [Support](https://autocode.com)
-* [Join a Discord server](https://discord.gg/5V68EK8AeS)
-* [Report An Issue](https://github.com/Abhay557/Codependal/issues/new)
-* [Contact The Author](https://github.com/Abhay557)
-* [Github Repo](https://github.com/Abhay557/Codependal)
-
-⚠ Caution  Some Of The Css Won't Work! Because It First Version! 
+* [support](https://autocode.com)
+* [Join a discord server](https://discord.gg/CUgHj4X7uB)
+* [Report an issue](https://github.com/Abhay557/Codependal/issues/new)
+* [Github repo](https://github.com/Abhay557/Codependal)
+ 
