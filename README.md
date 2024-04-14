@@ -6,7 +6,6 @@
 </p>
   <h3 align="center">Codependal</h3>
 
-
   <p align="center">
    With this editor, you can simultaneously code and view the changes made to your HTML (including CSS and JS).
 Its Web Based Editor is ideal for anyone who simply wants to quickly write and execute some code without having to open an application.
@@ -41,3 +40,4 @@ Check out these links:
 * [Report an issue](https://github.com/Abhay557/Codependal/issues/new)
 * [Github repo](https://github.com/Abhay557/Codependal)
  
+# [Codependal V-2 is available at](https://github.com/abhay557/Codependal-V2/)
