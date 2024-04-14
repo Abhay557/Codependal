@@ -40,4 +40,4 @@ Check out these links:
 * [Report an issue](https://github.com/Abhay557/Codependal/issues/new)
 * [Github repo](https://github.com/Abhay557/Codependal)
  
-# [Codependal V-2 is available at](https://github.com/abhay557/Codependal-V2/)
+# [Codependal V-2 is available! Click here](https://github.com/abhay557/Codependal-V2/)
