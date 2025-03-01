@@ -28,8 +28,6 @@ Its Web Based Editor is ideal for anyone who simply wants to quickly write and e
 
 ![1](/readme/gallery/1.jpg)
 
-The screenshot above shows the interface of **Codependal**, which includes:
-
 - **Navigation Bar**: Links to the **Dashboard, About, and Contact** pages.
 - **Code Editor Tabs**: Sections for **HTML, CSS, and JavaScript**, where users can write and edit their code.
 - **Live Preview Window**: Displays the real-time output of the code written in the editor.
