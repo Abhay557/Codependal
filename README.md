@@ -1,6 +1,6 @@
 # Codependal
 <p align="center">
-  <a href="https://autocode.com/app/abhay557/codependal/">
+  <a href="https://codependal.com">
     <img src="/readme/thumbnail.png" alt="Logo" width="86" height="86"/>
   </a>
 </p>
